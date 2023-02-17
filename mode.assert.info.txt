@@ -1,0 +1,30 @@
+
+reset.mode:0.0.1|
+root.info: system.mode.info:Ful
+mode.assert=nul>5.0
+mode.basic.z=nul>5.5.0/debug.api
+mode.debug.z=asept>8.8.8.8----minis
+mode.
+     .assert.
+             .info.=0.5>nul:fail
+debug:g-8,m-9,m-m#,nul:500>g.z.m
+debug>>>>fail)>mifafor+
+••••SDROM••••••••nul+getting 
+MLP#•••••••••••••gubed+nul
+Log://system/denamik/debug/#log#
+          move {log:down,15 ;}
+apply move} + print {copy:log;}
+z-(•} " f-{log=[text] > > log info=0
+==≠======≠======≠======≠=====≠=====
+[•••••••LOG••••••LOG••••••••LOG•••]
+         |.       |.         |. 
+       127.0.0.1 - - [28/Oct/2022 00:16:55] "HEAD / HTTP/1.1" 200 0
+127.0.0.1 - - [28/Oct/2022 00:16:55] "GET / HTTP/1.1" 200 233
+127.0.0.1 - - [28/Oct/2022 00:16:56] "GET /favicon.ico HTTP/1.1" 404 742
+127.0.0.1 - - [28/Oct/2022 00:16:59] "GET /HTML.CSs.python.xost/EmInfo/HTMLstroke/sss.html HTTP/1.1" 304 0
+127.0.0.1 - - [28/Oct/2022 00:16:59] "GET /assets/EmInfo/HTMLstroke/CSS/color1.css HTTP/1.1" 304 0
+127.0.0.1 - - [28/Oct/2022 00:17:02] "GET /__exit HTTP/1.1" 200 0
+
+#[HTMLcssPython.xost] The terminal will be closed in 3 seconds ...
+
+
